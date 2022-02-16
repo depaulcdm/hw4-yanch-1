@@ -1,5 +1,6 @@
 # Instructions
-**TODO:** Replace this line with your name and student ID.
+Changhao Yan
+1968956
 
 **TODO:** Add your screen captures to a new directory called [images](images).
 
